@@ -145,3 +145,10 @@ Machine sees:
 👉 understands language context
 👉 advanced abilities
 (Like ChatGPT replies, translation, summarization, Q&A)
+
+🔥 Final Clear Statement
+
+✔ ML trains simple models
+✔ DL trains powerful models
+❗ But BOTH need NLP to understand text
+👉 That is why NLP + ML/DL is used in real-time applications
