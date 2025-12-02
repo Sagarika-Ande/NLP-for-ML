@@ -128,6 +128,18 @@ This educational material is provided for learning purposes.
 **Happy Learning! 🚀**
 
 
+Full NLP Pipeline (simple)
+
+1️⃣ Raw Text
+2️⃣ Preprocessing
+3️⃣ Tokenization
+4️⃣ POS Tagging
+5️⃣ NER (Named Entity Recognition)
+6️⃣ Vectorization (convert to numbers)
+7️⃣ ML/DL Model
+8️⃣ Prediction / Output
+
+
 ⭐ FINAL SIMPLE EXPLANATION
 NLP for ML
 
