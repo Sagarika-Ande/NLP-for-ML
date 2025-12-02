@@ -172,7 +172,44 @@ Option A — Traditional NLP
 Use: BoW, TF-IDF, OHE
 → Good for small ML models
 
+Classical NLP pipeline
+
+User Text (Input)
+      ↓
+Text Preprocessing
+(tokenization, stopwords, lemmatization)
+      ↓
+Feature Engineering
+(BOW / TF-IDF / n-grams / POS-tag features)
+      ↓
+ML Model
+(Logistic Regression / SVM / Random Forest / Naive Bayes)
+      ↓
+Labels (Output)
+(sentiment / spam / topic)
+
+
 Option B — Modern NLP
 
 Use: Word Embeddings, BERT, GPT
 → Good for deep learning, LLMs
+
+Modern NLP pipeline
+
+User Text (Input)
+      ↓
+Text Preprocessing
+(simple tokenization only)
+      ↓
+Encoder (Embeddings)
+(BERT / Word2Vec / Transformer Embedding Layer)
+      ↓
+Deep Model
+(Transformer layers → attention)
+      ↓
+Decoder (optional)
+(if generating text: GPT, T5)
+      ↓
+Output
+(labels OR full text response)
+
