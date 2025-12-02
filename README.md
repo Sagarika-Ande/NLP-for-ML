@@ -164,3 +164,15 @@ Machine sees:
 ✔ DL trains powerful models
 ❗ But BOTH need NLP to understand text
 👉 That is why NLP + ML/DL is used in real-time applications
+
+You choose one of these:
+
+Option A — Traditional NLP
+
+Use: BoW, TF-IDF, OHE
+→ Good for small ML models
+
+Option B — Modern NLP
+
+Use: Word Embeddings, BERT, GPT
+→ Good for deep learning, LLMs
